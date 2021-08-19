@@ -3,25 +3,16 @@ public class HW1 {
     public static void main(String[] args) {
         System.out.println("Hello");
 
+        printThreeWords ();
+        checkSumSign();
+
     }
-
-
-
-
-
 
         public static void printThreeWords () {
             System.out.println("_Orange");
             System.out.println("_Banana");
             System.out.println("_Apple");
         }
-
-
-    public static void main () {
-        System.out.println("_Orange");
-        System.out.println("_Banana");
-        System.out.println("_Apple");
-    }
 
 
 
